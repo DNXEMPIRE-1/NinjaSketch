@@ -111,4 +111,4 @@ To run the project in your local environment, follow these steps:
 
 ## 🍿 Video
 
-https://github.com/mirayatech/NinjaSketch/assets/71933266/6a16c9e5-6380-4317-96e7-d132768f7b40
+https://github.com/DNXEMPIRE-1/NinjaSketch/assets/71933266/6a16c9e5-6380-4317-96e7-d132768f7b40
